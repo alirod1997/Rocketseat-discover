@@ -1,0 +1,11 @@
+#titulo{
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgba(128, 0, 128, 0.626);
+    color: rgb(43, 89, 226);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
